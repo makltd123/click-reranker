@@ -1,0 +1,18 @@
+# Original spec: kept locally, not published
+TZ_click_reranker.md
+
+# Generated artifacts (POST /generate rebuilds them)
+backend/data/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Frontend
+node_modules/
+frontend/dist/
+
+# Tools
+.mimocode/
